@@ -14,5 +14,7 @@ pandas 1.3.5
 
 scipy 1.3.1
 
+sqlite 3.30.0
+
 statannotations 0.6.0
 
