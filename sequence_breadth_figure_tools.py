@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
 
 import os
 import pandas as pd
@@ -20,9 +15,6 @@ plt.rcParams.update({
     "font.family": "serif",
     "font.serif": ["Palatino"],
 })
-
-
-# In[5]:
 
 
 def count_freq_detection(status_data,threshold,pop_groups):
@@ -153,7 +145,6 @@ def just_srr(sample_name):
     return(sample_name.split('_')[0])
 
 
-# In[ ]:
 
 
 
