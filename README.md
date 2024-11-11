@@ -9,10 +9,15 @@ The easiest way to install them is by creating a conda environment with the foll
 ```conda env create -f sequence-breadth-tools.yml```
 
 matplotlib 3.5.3
+
 numpy 1.21.6
+
 pandas 1.3.5
+
 scipy 1.3.1
+
 sqlite 3.30.0
+
 statannotations 0.6.0
 
 
